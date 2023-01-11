@@ -36,8 +36,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sandeshbashyal&show_icons=true&locale=en&theme=cobalt" alt="sandeshbashyal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshbashyal&" alt="sandeshbashyal" /></p>
-
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshbashyal&" alt="sandeshbashyal" /></p>
+-->
 
 <!--
 **SandeshBashyal/SandeshBashyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
