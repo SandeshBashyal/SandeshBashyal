@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
-- 🤫 <kbd id="demo" onClick="myFunction()">Want to know a secret? </kbd>  **We both are geniuses🤯**
+- 🤫 <button id="demo" onClick="myFunction()">Want to know a secret? </button>  **We both are geniuses🤯**
 
 <script>
 function myFunction() {
