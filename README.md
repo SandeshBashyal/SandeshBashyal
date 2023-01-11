@@ -14,7 +14,13 @@
 
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
-- <kbd onClick="alert('**We both are geniuses🤯**')"> 🤫 Want to know a secret? </kbd>  
+- 🤫 <kbd id="demo" onClick="myFunction()">Want to know a secret? </kbd>  **We both are geniuses🤯**
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}
+</script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
