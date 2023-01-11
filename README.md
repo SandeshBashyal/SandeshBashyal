@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshbashyal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshbashyal" /> </p>
 
-- 🔭 I’m currently working on [website] (project.lichal.com)
+- 🔭 I’m currently working on [website](project.lichal.com)
 
 - 🔥 Mine Hot Topics: **Reactjs, Django and Web Hosting**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
-<button onClick="alert('**We both are geniuses🤯**')">- 🤫 Want to know a secret? </button>  
+- <button onClick="alert('**We both are geniuses🤯**')"> 🤫 Want to know a secret? </button>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
