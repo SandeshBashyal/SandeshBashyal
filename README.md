@@ -15,6 +15,10 @@
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
 - ✨ <kbd id="demo">The point is: </kbd>  **We both are geniuses🤯**
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SandeshBashyal/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
