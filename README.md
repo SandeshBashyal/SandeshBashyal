@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
-<img align="center" alt="heart" width="400" src="Graph.jpg">
+<p align="center"> <img alt="heart" width="400" src="Graph.jpg"></p>
 
 <h1 align="center">Hello 👋, I'm Sandesh Bashyal</h1>
 <h3 align="center">♓-Zetahellstar</h3>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
-- <button>🤫 Want to know a secret? </button> **We both are geniuses🤯** 
+<button onClick="alert('**We both are geniuses🤯**')">- 🤫 Want to know a secret? </button>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
