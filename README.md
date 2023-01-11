@@ -3,8 +3,11 @@
 
 <h1 align="center">Hello 👋, I'm Sandesh Bashyal</h1>
 <h3 align="center">♓-Zetahellstar</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshbashyal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshbashyal" /> </p>
+<p align="center"> 
+  Profile Visit<br>
+  <img src="https://profile-counter.glitch.me/SandeshBashyal/count.svg" />
+</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshbashyal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshbashyal" /> </p> -->
 
 - 🔭 I’m currently working on [website](project.lichal.com)
 
@@ -15,10 +18,6 @@
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
 - ✨ <kbd id="demo">The point is: </kbd>  **We both are geniuses🤯**
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SandeshBashyal/count.svg" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
