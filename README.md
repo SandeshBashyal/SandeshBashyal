@@ -1,10 +1,12 @@
-### Hi there 👋
+<!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
+<img align="centre" alt="heart" width="400" src="Graph.jpg">
+
 <h1 align="center">Hello 👋, I'm Sandesh Bashyal</h1>
 <h3 align="center">♓-Zetahellstar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshbashyal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshbashyal" /> </p>
 
-- 🔭 I’m currently working on [website:](project.lichal.com)
+- 🔭 I’m currently working on [website] (project.lichal.com)
 
 - 🔥 Mine Hot Topics: **Reactjs, Django and Web Hosting**
 
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me **sandeshbashyal01@gmail.com**
 
-- 🤫 Want to know a secret? <button> **We both are geniuses🤯** </button>
+- <button>🤫 Want to know a secret? </button> **We both are geniuses🤯** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
