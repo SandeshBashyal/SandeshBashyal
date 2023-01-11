@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
-<img align="centre" alt="heart" width="400" src="Graph.jpg">
+<img align="center" alt="heart" width="400" src="Graph.jpg">
 
 <h1 align="center">Hello 👋, I'm Sandesh Bashyal</h1>
 <h3 align="center">♓-Zetahellstar</h3>
