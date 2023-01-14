@@ -9,7 +9,7 @@
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshbashyal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshbashyal" /> </p> -->
 
-- 🔭 I’m currently working on [website]((https://project.lichal.com/))
+- 🔭 I’m currently working on [website](https://project.lichal.com)
 
 - 🔥 Mine Hot Topics: **Reactjs, Django and Web Hosting**
 
