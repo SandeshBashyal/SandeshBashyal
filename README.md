@@ -34,9 +34,16 @@
 
 <h3 align="left">Support:</h3><p align="center"><a href="https://www.buymeacoffee.com/zetahellstar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zetahellstar" /></a></p><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshbashyal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SandeshBashyal&show_icons=true&theme=cobalt)
 
+### Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshbashyal&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+* * *
+### Stats:
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SandeshBashyal&show_icons=true&theme=radical)
+
+* * *
+### Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sandeshbashyal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
