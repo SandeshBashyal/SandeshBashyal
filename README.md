@@ -37,16 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshbashyal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SandeshBashyal&show_icons=true&theme=cobalt)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sandeshbashyal&show_icons=true&locale=en&theme=cobalt" alt="sandeshbashyal" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshbashyal&" alt="sandeshbashyal" /></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeshbashyal&repo=github-readme-stats" />
-</a>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sandeshbashyal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
